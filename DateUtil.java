@@ -200,7 +200,7 @@ public class DateUtil {
 	 * @param mins			分钟
 	 * @param second		秒
 	 * @return Date
-	 * @author:何志鸣
+	 * @author:lyd
 	 * @date:Dec 26, 2013
 	 */
 	public static Date addDate(Date date, int days,int hours,int mins,int second) {
